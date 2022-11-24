@@ -1,7 +1,7 @@
  <h1 align="center"> 
 HELLO 👋, I'm ManoharMakarla ( Mac Magician )  </h1>
 
-```
+----
 
 
 🌱 I’m currently learning MERN stack.
@@ -21,12 +21,11 @@ HELLO 👋, I'm ManoharMakarla ( Mac Magician )  </h1>
 ⚡  EAT SLEEP CODE REPEAT 
 
 
-```
+----
 <br>
 
 <h3> Connect with me : </h3>
-
-```
+----
 
 [Portifolio](manoharmakarla.com)
 
@@ -34,5 +33,4 @@ HELLO 👋, I'm ManoharMakarla ( Mac Magician )  </h1>
 
 
 
-
-```
+----
