@@ -26,12 +26,12 @@ HELLO 👋, I'm ManoharMakarla ( Mac Magician )  </h1>
 
 <h3> Connect with me : </h3>
 
-
+```
 
 [Portifolio](manoharmakarla.com)
 
 
-```
+
 
 
 
