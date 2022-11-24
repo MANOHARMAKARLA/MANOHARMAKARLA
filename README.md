@@ -10,7 +10,7 @@ HELLO 👋, I'm ManoharMakarla ( Mac Magician )  </h1>
 
 👨‍💻 All of my projects are available at manoharmakarla.com
 
-📑 Resume at manoharmakarla.com/profie.pdf
+📑 Resume at (manoharmakarla.com/profie.pdf)
 
 💼 Working as a Freelancer and Intern.
 
@@ -28,6 +28,7 @@ HELLO 👋, I'm ManoharMakarla ( Mac Magician )  </h1>
 ----
 
 [Portifolio](manoharmakarla.com)
+
 
 
 
