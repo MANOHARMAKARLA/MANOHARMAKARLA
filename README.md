@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source and Full Stack Projects.**
 
-- 👨‍💻 All of my projects are available at [manoharmakarla.com](manoharmakarla.com)
+- 👨‍💻 All of my projects are available at [wmanoharmakarla.com](https://www.manoharmakarla.com)
 
-- 📄 Know about my experiences [manoharmakarla.com#experiences](manoharmakarla.com#experiences)
+- 📄 Know about my experiences [CLICK HERE](https://www.manoharmakarla.com/#experiences)
 
 - ⚡ Fun fact **⚡ EAT SLEEP CODE REPEAT**
 
